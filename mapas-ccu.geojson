@@ -3,17 +3,17 @@
   "features": [
     {
       "type": "Feature",
-      "properties": { "nombre": "CD SANTIAGO SUR" },
+      "properties": { "nombre": "CD SANTIAGO SUR", "icono": "⭐" },
       "geometry": { "type": "Point", "coordinates": [-70.7181666667, -33.5459444444] }
     },
     {
       "type": "Feature",
-      "properties": { "nombre": "CD MODELO" },
+      "properties": { "nombre": "CD MODELO", "icono": "⭐" },
       "geometry": { "type": "Point", "coordinates": [-70.6861666667, -33.4070555556] }
     },
     {
       "type": "Feature",
-      "properties": { "nombre": "CD CERVECERA" },
+      "properties": { "nombre": "CD CERVECERA", "icono": "⭐" },
       "geometry": { "type": "Point", "coordinates": [-70.7050555556, -33.3586111111] }
     }
   ]
